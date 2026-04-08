@@ -26,6 +26,6 @@ Este projeto foi criado para cumprir um requisito do curso de GitHub da DIO, que
 ## Objetivos: 
 [X] Criar um repositório e vinculá-lo a um projeto; <br>
 [X] Criar uma _branch_, fazer um _commit_, efetuar um _merge_ e dar _push_; <br>
-[] Adicionar um colaborador ao projeto, fazer um fork e ambos contribuir nele; <br>
-[] Fazer um README.me do projeto e aplicar as técnicas ensinadas. <br>
+[X] Adicionar um colaborador ao projeto, fazer um fork e ambos contribuir nele; <br>
+[X] Fazer um README.me do projeto e aplicar as técnicas ensinadas. <br>
 
